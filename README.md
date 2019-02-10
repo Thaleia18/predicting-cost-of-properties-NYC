@@ -45,14 +45,14 @@ SALE PRICE,
 SALE DATE
 
 The correlation of these features with the sale price:
-![Screenshot](screenshot.png)
+![Screenshot](corrplot.png)
 
 # Model results
 
-![Screenshot](screenshot.png)
-![Screenshot](screenshot.png)
-![Screenshot](screenshot.png)
-![Screenshot](screenshot.png)
+![Screenshot](lasso.png)
+![Screenshot](linear.png)
+![Screenshot](randomforest.png)
+![Screenshot](ridge.png)
 
 The best results are for the random forest regression.
 ![Screenshot](screenshot.png)
