@@ -49,9 +49,16 @@ The correlation of these features with the sale price:
 
 # Model results
 
+Lasso regression
 ![Screenshot](lasso.png)
+
+Linear regression
 ![Screenshot](linear.png)
+
+Random Forest regression
 ![Screenshot](randomforest.png)
+
+Ridge regression
 ![Screenshot](ridge.png)
 
 The best results are for the random forest regression.
