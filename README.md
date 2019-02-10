@@ -1,4 +1,4 @@
-# predicting-cost-of-properties-NYC
+# Predicting cost of properties NYC
 
 The prediction task is to determine the price of a property in sale in NYC.
 
@@ -43,3 +43,16 @@ TAX CLASS AT TIME OF SALE
 BUILDING CLASS AT TIME OF SALE
 SALE PRICE,
 SALE DATE
+
+The correlation of these features with the sale price:
+![Screenshot](screenshot.png)
+
+# Model results
+
+![Screenshot](screenshot.png)
+![Screenshot](screenshot.png)
+![Screenshot](screenshot.png)
+![Screenshot](screenshot.png)
+
+The best results are for the random forest regression.
+![Screenshot](screenshot.png)
