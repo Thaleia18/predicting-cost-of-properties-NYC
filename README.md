@@ -67,4 +67,4 @@ Ridge regression
 
 The best results are for the random forest regression.
 
-![Screenshot](different rgression.png)
+![Screenshot](rgression.png)
